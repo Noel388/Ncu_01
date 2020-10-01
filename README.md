@@ -21,4 +21,9 @@ Galb1-3GlcNAcb1-3Galb1-4[Fuca1-3]GlcNAcb-Sp   0   0   0   0   0   0   0   0   0 
 Galb1-3GlcNAcb1-3Galb1-4[Fuca1-3]GlcNAcb-Sp   0   0   0   0
 ```
 
-Note that the monosaccharide are obtained from Symbol Nomenclature for Glycans (SNFG) : (citation) Symbol Nomenclature for Graphical Representation of Glycans, Glycobiology 25: 1323-1324, 2015.
+
+Note that the monosaccharide are obtained from Symbol Nomenclature for Glycans (SNFG)
+
+#### Citation:
+
+Symbol Nomenclature for Graphical Representation of Glycans, Glycobiology 25: 1323-1324, 2015.
