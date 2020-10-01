@@ -25,4 +25,7 @@ Nuc_01 = function(nuc_df){
 		}
 		mono_df = rbind(mono_df, mono_df_temp)
 	}
+	colnames(mono_df) = Mono_c
+	rownames(mono_df) = nuc_df
+	return(mono_df)
 }
